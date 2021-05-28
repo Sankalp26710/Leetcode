@@ -10,4 +10,3 @@ class Solution:
                 width = right - left_border_of_popped - 1
                 ans = max(ans, width * height)
             stack.append(right)
-        return ans
