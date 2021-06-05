@@ -14,5 +14,5 @@ class Solution:
         if(x<0):
             t=t*-1
         return t
-            
+
         
