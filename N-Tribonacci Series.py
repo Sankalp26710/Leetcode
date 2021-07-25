@@ -15,5 +15,3 @@ class Solution:
             c=d
             n=n-1
         return d
-        
-        
